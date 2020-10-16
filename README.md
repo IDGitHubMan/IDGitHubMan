@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Isaiah. I am a student who mostly programs for fun. I'm currently working on not only a Github pages page, but also a python based app that collects a variety of math tools and toys. I program in Python, Processing, HTML, CSS, JS, and am learning Pyret among other things.
+
 <!--
 **IDGitHubMan/IDGitHubMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
