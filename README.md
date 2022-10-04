@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-I'm Isaiah. I am a student who mostly programs for fun. I'm making things with Python, HTML, CSS, JS, and maybe a little java. I'm working on a lot right now...
-😆
+#### I'm Isaiah.
+
+ I am a student who mostly programs for fun. I'm making things with Python, HTML, CSS, JS, and maybe a little java. I'm working on a lot right now...😆
+
+But I recently released an app! You can check it out [here](https://play.google.com/store/apps/details?id=com.IDDev.nodes) if you're interested. While that is still an ongoing process, I'm also working on building some websites for myself, as well as a few weird and random projects.
 <!--
 **IDGitHubMan/IDGitHubMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
