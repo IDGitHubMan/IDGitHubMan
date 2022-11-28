@@ -2,9 +2,18 @@
 
 #### I'm Isaiah.
 
- I am a student who mostly programs for fun. I'm making things with Python, HTML, CSS, JS, and maybe a little java. I'm working on a lot right now...😆
+ I am a student who mostly programs for fun. I'm making things with Python, HTML, CSS, JS, and Java.
+ 
+ Right now, I'm in a yearlong intensive Full Stack Development course, as a Pursuit Fellow.
 
-But I recently released an app! You can check it out [here](https://play.google.com/store/apps/details?id=com.IDDev.nodes) if you're interested. While that is still an ongoing process, I'm also working on building some websites for myself, as well as a few weird and random projects.
+I recently released an app! You can check it out [here](https://iddude.itch.io/genera) if you're interested. While that is still an ongoing process, I'm also working on building some websites for myself, as well as a few weird and random projects:
+
+- A nice portfolio with Github Pages (still in beginning)
+- A live website for me and other people to host projects (Still in beginning)
+- A music player/visualizer app (The visualization is there, but the actual interface is non-existent)
+- Some animation
+
+
 <!--
 **IDGitHubMan/IDGitHubMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
