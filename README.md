@@ -6,26 +6,26 @@
  
  Right now, I'm in a yearlong intensive Full Stack Development course, as a Pursuit Fellow.
 
-I recently released an app! You can check it out [here](https://iddude.itch.io/genera) if you're interested. While that is still an ongoing process, I'm also working on building some websites for myself, as well as a few weird and random projects:
+I recently released an app! You can check it out [here](https://iddude.itch.io/genera) if you're interested.
 
+🔭Other than that, I’m currently working on ...
 - A nice portfolio with Github Pages (still in beginning)
 - A live website for me and other people to host projects (Still in beginning)
 - A music player/visualizer app (The visualization is there, but the actual interface is non-existent)
-- Some animation  
+- Some animations  
 
-[!["linkedIn"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiah-desrosiers/)
+🌱 I’m currently learning ...
+- React
+- Postgres
+- Firebase
 
-<!--
-**IDGitHubMan/IDGitHubMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤔 I’m looking for help with/looking to collaborate on ...
+- [Cymatica](https://github.com/IDGitHubMan/Cymatica)
+- [Genera](https://github.com/IDGitHubMan/Genera)
+- [Interstitia](https://github.com/IDGitHubMan/Interstitia)
 
-Here are some ideas to get you started:
+#### Connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href="https://www.linkedin.com/in/isaiah-desrosiers/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ 
+ <a href="https://iddude.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
