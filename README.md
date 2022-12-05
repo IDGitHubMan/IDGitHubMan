@@ -11,8 +11,9 @@ I recently released an app! You can check it out [here](https://iddude.itch.io/g
 - A nice portfolio with Github Pages (still in beginning)
 - A live website for me and other people to host projects (Still in beginning)
 - A music player/visualizer app (The visualization is there, but the actual interface is non-existent)
-- Some animation
+- Some animation  
 
+[!["linkedIn"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiah-desrosiers/)
 
 <!--
 **IDGitHubMan/IDGitHubMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
